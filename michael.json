@@ -1,5 +1,7 @@
 {
-    "name": "michael",
-    "hobbies": ["reading", "video games", "programming"],
-    "computers": 2
+
+"name": "michael",
+"hobbies": ["reading", "games", "programing"],
+"computers": 2
+
 }
